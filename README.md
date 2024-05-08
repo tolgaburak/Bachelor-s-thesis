@@ -1,10 +1,1 @@
-# branchler
-YEOTK branchi ve verisetiyle çalışıcaklar ---> Tolga, Seray
-ENKAI branchi ve verietiyle çalışıcaklar ----> Ahmet Furkan, Fatmanur, Emre
-Main branchi ve ENJSA verisetiyle çalışıcaklar ---> Emircan 
-
-İşlerinizi bitirdikten sonra önce bakıyorsunuz hangi branchde olduğunuza bunun için terminal kısmına ---> git branch
-yazıcaksınız, kendi branch isminizi gördükten sonra commitleyip yaptıklarınızı pushlayabilirsiniz
-
-
-
+Enerji sektörü, doğası gereği belirsizliklerle dolu bir yatırım alanıdır ve bu durum yatırımcılar için bir zorluk oluşturur. Bu bağlamda, zaman serisi analizleri ve makine öğrenmesi algoritmalarının kullanımı, yatırımcıların daha bilinçli kararlar vermelerine yardımcı olabilir. Zaman serisi analizleri, geçmiş fiyat hareketlerini ve ticaret hacimlerini inceleyerek gelecekteki eğilimleri tahmin etmeye odaklanır. Enerji sektörü hisse senetleri için bu tür analizler, piyasadaki dalgalanmaları anlamak ve gelecekteki fiyat hareketlerini öngörmek açısından kritiktir. Makine öğrenmesi algoritmaları ise büyük veri kümelerindeki desenleri belirleme konusunda üstündür. Enerji sektörü hisse senetleri için, bu algoritmalar fiyat tahminleri, risk analizi ve portföy yönetimi gibi alanlarda kullanılabilir. Regresyon analizi, karar ağaçları ve derin öğrenme modelleri gibi çeşitli algoritmalar, enerji hisselerindeki fiyat değişimlerini daha etkili bir şekilde tahmin etmeye yardımcı olabilir. Bu araştırma, Türkiye'deki enerji sektöründe önemli bir rol oynayan Enerjisa, Enka ve Yeo şirketlerinin hisse senetlerinin tahmin edilmesinde beş farklı makine öğrenimi modelini kullanacak ve zaman serileri tekniklerini uygulayacaktır. Elde edilen bulgular yorumlanacak ve analiz edilecektir.
